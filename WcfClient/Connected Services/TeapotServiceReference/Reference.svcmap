@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="9e26d9a8-43da-4933-9a7b-b587c36111a5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50371/Services/TeapotService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TeapotService.disco" MetadataType="Disco" ID="3288868a-5558-4860-abf6-a47b3744f28b" SourceId="1" SourceUrl="http://localhost:50371/Services/TeapotService.svc?disco" />
+    <MetadataFile FileName="TeapotService.wsdl" MetadataType="Wsdl" ID="7d43af79-998e-4013-91a8-4281d0cc8a98" SourceId="1" SourceUrl="http://localhost:50371/Services/TeapotService.svc?wsdl" />
+    <MetadataFile FileName="TeapotService.xsd" MetadataType="Schema" ID="8c5ce2f9-204a-4979-94d6-a49a04ffc64c" SourceId="1" SourceUrl="http://localhost:50371/Services/TeapotService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TeapotService1.xsd" MetadataType="Schema" ID="5ec09c0d-df7f-4d87-a4dd-30cd80271c05" SourceId="1" SourceUrl="http://localhost:50371/Services/TeapotService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TeapotService2.xsd" MetadataType="Schema" ID="57588b7e-1256-48f8-8182-d08cf2d5daff" SourceId="1" SourceUrl="http://localhost:50371/Services/TeapotService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

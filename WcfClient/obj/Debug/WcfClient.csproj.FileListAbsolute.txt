@@ -1,0 +1,8 @@
+E:\VS Projects\WcfClient\bin\Debug\WcfClient.exe.config
+E:\VS Projects\WcfClient\bin\Debug\WcfClient.exe
+E:\VS Projects\WcfClient\bin\Debug\WcfClient.pdb
+E:\VS Projects\WcfClient\obj\Debug\WcfClient.csproj.AssemblyReference.cache
+E:\VS Projects\WcfClient\obj\Debug\WcfClient.csproj.SuggestedBindingRedirects.cache
+E:\VS Projects\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+E:\VS Projects\WcfClient\obj\Debug\WcfClient.exe
+E:\VS Projects\WcfClient\obj\Debug\WcfClient.pdb

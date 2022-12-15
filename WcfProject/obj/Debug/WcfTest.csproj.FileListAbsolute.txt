@@ -1,0 +1,12 @@
+E:\VS Projects\WcfTest\obj\Debug\WcfTest.csproj.AssemblyReference.cache
+E:\VS Projects\WcfTest\obj\Debug\WcfTest.csproj.CoreCompileInputs.cache
+E:\VS Projects\WcfTest\bin\WcfTest.dll.config
+E:\VS Projects\WcfTest\bin\WcfTest.dll
+E:\VS Projects\WcfTest\bin\WcfTest.pdb
+E:\VS Projects\WcfTest\bin\EntityFramework.dll
+E:\VS Projects\WcfTest\bin\EntityFramework.SqlServer.dll
+E:\VS Projects\WcfTest\bin\EntityFramework.xml
+E:\VS Projects\WcfTest\bin\EntityFramework.SqlServer.xml
+E:\VS Projects\WcfTest\obj\Debug\WcfTest.csproj.CopyComplete
+E:\VS Projects\WcfTest\obj\Debug\WcfTest.dll
+E:\VS Projects\WcfTest\obj\Debug\WcfTest.pdb
